@@ -1,0 +1,13 @@
+C:\Users\lorenzo.todeschi\Documents\NewWindowsForm\bin\Debug\netcoreapp3.1\NewWindowsForm.exe
+C:\Users\lorenzo.todeschi\Documents\NewWindowsForm\bin\Debug\netcoreapp3.1\NewWindowsForm.deps.json
+C:\Users\lorenzo.todeschi\Documents\NewWindowsForm\bin\Debug\netcoreapp3.1\NewWindowsForm.runtimeconfig.json
+C:\Users\lorenzo.todeschi\Documents\NewWindowsForm\bin\Debug\netcoreapp3.1\NewWindowsForm.runtimeconfig.dev.json
+C:\Users\lorenzo.todeschi\Documents\NewWindowsForm\bin\Debug\netcoreapp3.1\NewWindowsForm.dll
+C:\Users\lorenzo.todeschi\Documents\NewWindowsForm\bin\Debug\netcoreapp3.1\NewWindowsForm.pdb
+C:\Users\lorenzo.todeschi\Documents\NewWindowsForm\obj\Debug\netcoreapp3.1\NewWindowsForm.csprojAssemblyReference.cache
+C:\Users\lorenzo.todeschi\Documents\NewWindowsForm\obj\Debug\netcoreapp3.1\NewWindowsForm.AssemblyInfoInputs.cache
+C:\Users\lorenzo.todeschi\Documents\NewWindowsForm\obj\Debug\netcoreapp3.1\NewWindowsForm.AssemblyInfo.cs
+C:\Users\lorenzo.todeschi\Documents\NewWindowsForm\obj\Debug\netcoreapp3.1\NewWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\lorenzo.todeschi\Documents\NewWindowsForm\obj\Debug\netcoreapp3.1\NewWindowsForm.dll
+C:\Users\lorenzo.todeschi\Documents\NewWindowsForm\obj\Debug\netcoreapp3.1\NewWindowsForm.pdb
+C:\Users\lorenzo.todeschi\Documents\NewWindowsForm\obj\Debug\netcoreapp3.1\NewWindowsForm.genruntimeconfig.cache

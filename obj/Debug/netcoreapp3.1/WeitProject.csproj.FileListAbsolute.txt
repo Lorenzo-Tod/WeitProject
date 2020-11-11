@@ -1,0 +1,13 @@
+C:\Users\lorenzo.todeschi\Documents\WeitProject\bin\Debug\netcoreapp3.1\WeitProject.exe
+C:\Users\lorenzo.todeschi\Documents\WeitProject\bin\Debug\netcoreapp3.1\WeitProject.deps.json
+C:\Users\lorenzo.todeschi\Documents\WeitProject\bin\Debug\netcoreapp3.1\WeitProject.runtimeconfig.json
+C:\Users\lorenzo.todeschi\Documents\WeitProject\bin\Debug\netcoreapp3.1\WeitProject.runtimeconfig.dev.json
+C:\Users\lorenzo.todeschi\Documents\WeitProject\bin\Debug\netcoreapp3.1\WeitProject.dll
+C:\Users\lorenzo.todeschi\Documents\WeitProject\bin\Debug\netcoreapp3.1\WeitProject.pdb
+C:\Users\lorenzo.todeschi\Documents\WeitProject\obj\Debug\netcoreapp3.1\WeitProject.csprojAssemblyReference.cache
+C:\Users\lorenzo.todeschi\Documents\WeitProject\obj\Debug\netcoreapp3.1\WeitProject.AssemblyInfoInputs.cache
+C:\Users\lorenzo.todeschi\Documents\WeitProject\obj\Debug\netcoreapp3.1\WeitProject.AssemblyInfo.cs
+C:\Users\lorenzo.todeschi\Documents\WeitProject\obj\Debug\netcoreapp3.1\WeitProject.csproj.CoreCompileInputs.cache
+C:\Users\lorenzo.todeschi\Documents\WeitProject\obj\Debug\netcoreapp3.1\WeitProject.dll
+C:\Users\lorenzo.todeschi\Documents\WeitProject\obj\Debug\netcoreapp3.1\WeitProject.pdb
+C:\Users\lorenzo.todeschi\Documents\WeitProject\obj\Debug\netcoreapp3.1\WeitProject.genruntimeconfig.cache
